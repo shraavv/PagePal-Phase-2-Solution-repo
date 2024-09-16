@@ -1,5 +1,4 @@
-## Gopal and his PagePal
-## Phase 2
+## Gopal and his PagePal Phase 2 Evaluation Criteria
 
 **Criteria for the task to be marked as done:**
 - If req data ( book title, author, description, year published, language and preview) are properly fetched when the ```/book``` command is executed and returns a csv file. The csv file should contain only the latest genre books.(On typing in a new genre, the old genre details should not be present.)
